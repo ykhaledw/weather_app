@@ -4,6 +4,8 @@ Developed a simple and intuitive weather application using Flutter, featuring re
 
 ## Tools
 API Integration using Dio package
+State management using Bloc (cubit)
+Caching images and icons using cached_network_image
 
 ## Features
 1. Home Screen ( No Weather Body || Weather Info Data )
